@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+/* BOX 1 */
+.nav_logo{
+    height: 50px;
+    width: 128.73px;
+}
+
+.logo{
+     background-size: cover;
+     height: 50px;
+     width: 100%;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+
+ 
+/* BOX 2 */
+.p_one{
+  color:#cccccc ;
+  margin-left: 15px;
+}
+.p_two{
+color: #ffffff;
+margin-left: 3px;
+}
+.add-icon{
+    display: flex;
+}
+.nav_address{
+    margin-top: 10px;
+}
+
+
+
+/* BOX 3 */
+.nav_search{
+display: flex;
+margin-left: 15px;
+
+}
+
+.all{
+    height:42px ;
+    width: 50px;
+    text-align: center;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    border: none;
+}
+
+.search{
+    height: 40px;
+    width: 620px;
+    border: none;
+    font-size: 1rm;
+    font-weight: 10px;
+  }
+ 
+
+.search_icon{
+    background-color: #E4C31B;
+    height:42.3px;
+    width: 40px;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    color: black;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.search_icon:hover{
+    background-color: #E4B11B;
+}
+
+
+
+/* BOX 4 */
+.lang_border{
+    display: flex;
+   
+}
+
+.india{
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+
+ }
+ .select{
+  margin-left: 30px;
+ }
+ 
+
+
+/* BOX 5 */
+.user{
+  font-size:0.7rem;
+}
+
+.account{
+  font-weight: 700;
+}
+
+
+/* Boooooooooooooooooooooooooooooooooox ---------2  */
+.panel{
+  height:39px ;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #222f3d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  /* justify-content: space-evenly;  */
+}
+
+.panel-ops p{
+  display: inline;
+  margin-left: 05px;
+}
+
+.panel-ops i{
+  font-size: 18px;
+  margin-left: 10px;
+  }
+
+ .panel-ops{
+  width: 70%;
+  font-size: .95rem;
+}
+
+.newdeals{
+  font-size:0.9rem ;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.hero-section{
+  background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wearables_July23/GW_tallhero_3000x1200._CB600468776_.jpg");
+  background-size: cover;
+  height:400px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.hero-msg{
+  height: 40px;
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin-bottom: 35px;
+}
+
+.hero-msg a{
+  text-decoration: none;
+  color: #007185;
+}
+
+
+
+  
+  
+  
+  
