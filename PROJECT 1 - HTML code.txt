@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="Stylesheet" href="P1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+<body>
+    <div class="navbar">
+
+        <!-- BO000000000000000000000000000000000000000000X ------------------1 -->
+     <div class="nav_logo border "> 
+       <img src="https://assets.aboutamazon.com/fe/5d/8d96778846f3aa4e3ba65899bc5f/amz-alexa-logo-rgb-blue.png" alt="logo" class="logo">
+       </div>
+       
+       <!-- BOX 2 -->
+       <div class="nav_address border"> 
+       <p class="p_one"> Deliver to </p>
+       <div class="add-icon">
+       <i class="fa-solid fa-location-dot"> </i> 
+       <p p_two><b>INDIA</b></p>
+     </div>
+     </div>
+
+     <!-- BOX 3 -->
+     <div class="nav_search">
+       <select class="all">
+        <option>All</option>
+        <option>Alexa Skill</option>
+        <option>Amazon Device</option>
+        <option>Amazon Fashion</option>
+        <option>AMazon Fresh</option>
+        <option>Application</option>
+        <option>Apps and Game</option>
+        <option>Book</option>
+        <option>Clothing and Accessories</option>
+       </select>
+       <input placeholder="Search Amazon.in" class="search">
+       <div class="search_icon"> 
+        <i class="fa-solid fa-magnifying-glass"></i>
+       </div>
+     </div>
+
+     
+     <!-- BOX 4 -->
+     <div class="lang_border">
+        <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTor8roiZ4W0JrrkBsHvAzuQcyU1YcGbkTHA&usqp=CAU" alt="Indian flg" class=" india">
+      </div>
+      <select>
+        <option>ENG</option>
+        <option>HINDI</option>
+        <option>TAMIL</option>
+    </select>
+      </div>
+
+
+    
+     <!-- BOX 5  -->
+      <div class="account border" >
+        <p class="user"> User Login </p>
+        <p class="account">Account&List</p>
+      </div>
+
+
+      <!-- BOX 6 -->
+      <div class="account border">
+        <p class="user"> Return</p>
+        <p class="account">&Order</p>
+      </div>
+
+      <div>
+        <i class="fa-solid fa-cart-shopping" class="cart border" style="color: yellow;"></i>
+        <p>cart</p>
+      </div>
+  </div>
+
+
+
+
+  <!-- BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX ---------------------2  -->
+  <div class="panel">
+    <div class="panel-ops">
+        <i class="fa-solid fa-bars"></i>
+        <p class="border">All</p>
+        <p class="border">Fresh</p>
+        <p class="border">Amazon Bussiness</p>
+        <p class="border">Prime</p>
+        <p class="border">Today'sDeal</p>
+        <p class="border">New Release</p>
+        <p class="border">Best Seller</p>
+        <p class="border">Buy Again</p>
+        <p class="border">Mobiles</p>
+        <p class="border">Amazon Pay</p>
+    </div>
+    <div class="newdeals">
+        New lanuches from Mobiles, Electronic & more|Shop now
+    </div>
+ </div>
+
+<!-- BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX ---------------------- 3 -->
+  <div class="hero-section">
+         <div class="hero-msg">
+                <p>you are on <a href="https://www.amazon.in/"> Amazon.com </a>. you can also shop on Amazon India for million of product with fast local delivery</p>
+        </div>
+ </div>
+     
+
+     
+  
+  
+  
+  
+  
+  
+  
+  
