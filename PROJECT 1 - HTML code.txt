@@ -106,6 +106,8 @@
                 <p>you are on <a href="https://www.amazon.in/"> Amazon.com </a>. you can also shop on Amazon India for million of product with fast local delivery</p>
         </div>
  </div>
+</body>
+</html>
      
 
      
